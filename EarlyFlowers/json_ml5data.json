@@ -1,0 +1,69 @@
+{
+	"children": [
+		{
+			"children": [
+				{
+					"datei": "ISIC_0024306.jpg",
+					"path": "img/cancer\\ISIC_0024306.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024307.jpg",
+					"path": "img/cancer\\ISIC_0024307.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024308.jpg",
+					"path": "img/cancer\\ISIC_0024308.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024309.jpg",
+					"path": "img/cancer\\ISIC_0024309.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024310.jpg",
+					"path": "img/cancer\\ISIC_0024310.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024311.jpg",
+					"path": "img/cancer\\ISIC_0024311.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024312.jpg",
+					"path": "img/cancer\\ISIC_0024312.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024313.jpg",
+					"path": "img/cancer\\ISIC_0024313.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024314.jpg",
+					"path": "img/cancer\\ISIC_0024314.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024315.jpg",
+					"path": "img/cancer\\ISIC_0024315.jpg",
+					"type": "cancer"
+				},
+				{
+					"datei": "ISIC_0024316.jpg",
+					"path": "img/cancer\\ISIC_0024316.jpg",
+					"type": "cancer"
+				}
+			],
+			"datei": "cancer",
+			"path": "img/cancer",
+			"type": "folder"
+		}
+	],
+	"datei": "",
+	"path": "img/",
+	"type": "folder"
+}
