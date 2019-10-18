@@ -1,69 +1,976 @@
 {
-	"children": [
-		{
-			"children": [
-				{
-					"datei": "ISIC_0024306.jpg",
-					"path": "img/cancer\\ISIC_0024306.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024307.jpg",
-					"path": "img/cancer\\ISIC_0024307.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024308.jpg",
-					"path": "img/cancer\\ISIC_0024308.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024309.jpg",
-					"path": "img/cancer\\ISIC_0024309.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024310.jpg",
-					"path": "img/cancer\\ISIC_0024310.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024311.jpg",
-					"path": "img/cancer\\ISIC_0024311.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024312.jpg",
-					"path": "img/cancer\\ISIC_0024312.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024313.jpg",
-					"path": "img/cancer\\ISIC_0024313.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024314.jpg",
-					"path": "img/cancer\\ISIC_0024314.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024315.jpg",
-					"path": "img/cancer\\ISIC_0024315.jpg",
-					"type": "cancer"
-				},
-				{
-					"datei": "ISIC_0024316.jpg",
-					"path": "img/cancer\\ISIC_0024316.jpg",
-					"type": "cancer"
-				}
-			],
-			"datei": "cancer",
-			"path": "img/cancer",
-			"type": "folder"
-		}
-	],
-	"datei": "",
-	"path": "img/",
-	"type": "folder"
+  "children": [
+    {
+      "children": [
+        {
+          "datei": "01_cat_names_nationalgeographic_1525054.jpg",
+          "path": "img/cat\\01_cat_names_nationalgeographic_1525054.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "02_cat_training_NationalGeographic_1484324.jpg",
+          "path": "img/cat\\02_cat_training_NationalGeographic_1484324.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "072319_ee_cat_allergy_feat.jpg",
+          "path": "img/cat\\072319_ee_cat_allergy_feat.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "1200px_Cat03.jpg",
+          "path": "img/cat\\1200px_Cat03.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "152964589_welcome_home_new_cat_632x475.jpg",
+          "path": "img/cat\\152964589_welcome_home_new_cat_632x475.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "190207162239_01_fluffy_frozen_cat_trnd_exlarge_169.jpg",
+          "path": "img/cat\\190207162239_01_fluffy_frozen_cat_trnd_exlarge_169.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "19451063_303.jpg",
+          "path": "img/cat\\19451063_303.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "1_mONNI1lG9VuiqovpnYqicA.jpeg",
+          "path": "img/cat\\1_mONNI1lG9VuiqovpnYqicA.jpeg",
+          "type": "cat"
+        },
+        {
+          "datei": "220px_An_up_close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg",
+          "path": "img/cat\\220px_An_up_close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "222788ef_51a3_4b4e_8760_7f531d05d1fb_360x203.jpg",
+          "path": "img/cat\\222788ef_51a3_4b4e_8760_7f531d05d1fb_360x203.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "223471.jpg",
+          "path": "img/cat\\223471.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "27gingercat0611.jpg",
+          "path": "img/cat\\27gingercat0611.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "32665E6F_8D90_4567_9769D59E11DB7F26_source.jpg",
+          "path": "img/cat\\32665E6F_8D90_4567_9769D59E11DB7F26_source.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "4203.jpg",
+          "path": "img/cat\\4203.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "42582511_401.jpg",
+          "path": "img/cat\\42582511_401.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "4_ways_cheer_up_depressed_cat_1000x675.jpg",
+          "path": "img/cat\\4_ways_cheer_up_depressed_cat_1000x675.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "5268bf1a_f786_4743_9474_6614fec8638c_getty_915821408.jpg",
+          "path": "img/cat\\5268bf1a_f786_4743_9474_6614fec8638c_getty_915821408.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "5319970c_6ae9_42c2_83c8_9d785f975ed7_screen_shot_2019_07_18_at_31543_pm.png",
+          "path": "img/cat\\5319970c_6ae9_42c2_83c8_9d785f975ed7_screen_shot_2019_07_18_at_31543_pm.png",
+          "type": "cat"
+        },
+        {
+          "datei": "549585_istock_909106260.jpg",
+          "path": "img/cat\\549585_istock_909106260.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "56d75be5719cb520246a4ad39d1121cc8ceb9bc1_16x9_x150y18w639h360.jpg",
+          "path": "img/cat\\56d75be5719cb520246a4ad39d1121cc8ceb9bc1_16x9_x150y18w639h360.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "578211_gettyimages_542930526.jpg",
+          "path": "img/cat\\578211_gettyimages_542930526.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "5acb63d83493f__700_png.jpg",
+          "path": "img/cat\\5acb63d83493f__700_png.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "67586673.jpg",
+          "path": "img/cat\\67586673.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "70143101.jpg",
+          "path": "img/cat\\70143101.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "71EhiFce9pL.jpg",
+          "path": "img/cat\\71EhiFce9pL.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "960x0.jpg",
+          "path": "img/cat\\960x0.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Adopt_a_cat_or_kitten_from_RSPCA.jpg",
+          "path": "img/cat\\Adopt_a_cat_or_kitten_from_RSPCA.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Adopt_cat_mobile_banner_600x300_fit_constrain_q70_mobile_banner_image.jpg",
+          "path": "img/cat\\Adopt_cat_mobile_banner_600x300_fit_constrain_q70_mobile_banner_image.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Adopt_Fees_nobkgrd1_768x524.png",
+          "path": "img/cat\\Adopt_Fees_nobkgrd1_768x524.png",
+          "type": "cat"
+        },
+        {
+          "datei": "An_up_close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg",
+          "path": "img/cat\\An_up_close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "aR34MxRBretppyADbJcfqIZp_LraO1ELhk00lTZw0Q7MF1ebUKZeggeQkjBuZCCmYRSYNzr8_w640_h400_e365.jpg",
+          "path": "img/cat\\aR34MxRBretppyADbJcfqIZp_LraO1ELhk00lTZw0Q7MF1ebUKZeggeQkjBuZCCmYRSYNzr8_w640_h400_e365.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "barsik_41_pound_cat_today_main_190411_05_1e8dd7af73408f9713c40a6c699422a3.fit_760w.jpg",
+          "path": "img/cat\\barsik_41_pound_cat_today_main_190411_05_1e8dd7af73408f9713c40a6c699422a3.fit_760w.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "british_shorthair_maine_coon_b_w_rc_cat_emblematic.jpg",
+          "path": "img/cat\\british_shorthair_maine_coon_b_w_rc_cat_emblematic.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "british_short_hair_adult_breed_emblematic.jpg",
+          "path": "img/cat\\british_short_hair_adult_breed_emblematic.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat (1).jpg",
+          "path": "img/cat\\cat (1).jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat (2).jpg",
+          "path": "img/cat\\cat (2).jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat.jpg",
+          "path": "img/cat\\cat.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cataccessories_lowres_2x1_05916.jpg",
+          "path": "img/cat\\cataccessories_lowres_2x1_05916.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "catbeds_2x1_05936.jpg",
+          "path": "img/cat\\catbeds_2x1_05936.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "catcon_2019.jpg",
+          "path": "img/cat\\catcon_2019.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "CatMusicPurr_web_600.jpg",
+          "path": "img/cat\\CatMusicPurr_web_600.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cats.jpg",
+          "path": "img/cat\\cats.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Cats_660x335.jpg",
+          "path": "img/cat\\Cats_660x335.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_banner.jpg",
+          "path": "img/cat\\cat_banner.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_black_superstitious_fcs_cat_myths_162286659.jpg",
+          "path": "img/cat\\cat_black_superstitious_fcs_cat_myths_162286659.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_cloning_resize_md.jpg",
+          "path": "img/cat\\cat_cloning_resize_md.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_declawing_GettyImages_1002452836.0.jpg",
+          "path": "img/cat\\cat_declawing_GettyImages_1002452836.0.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_insurance_hero.jpg",
+          "path": "img/cat\\cat_insurance_hero.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_love_600.jpg",
+          "path": "img/cat\\cat_love_600.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_name_recognition_neurosciecnenews_public.jpg",
+          "path": "img/cat\\cat_name_recognition_neurosciecnenews_public.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_quotes_1543599392.jpg",
+          "path": "img/cat\\cat_quotes_1543599392.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "cat_slider4.png",
+          "path": "img/cat\\cat_slider4.png",
+          "type": "cat"
+        },
+        {
+          "datei": "culture_cats_sb10063748a_001.jpg",
+          "path": "img/cat\\culture_cats_sb10063748a_001.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "everything_you_need_to_know_about_captain_marvels_cat_hgyd.910.jpg",
+          "path": "img/cat\\everything_you_need_to_know_about_captain_marvels_cat_hgyd.910.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "FACEBOOK_MINI_KITTY_COMMUNE_daisy_cat_penis_face_1120.jpg",
+          "path": "img/cat\\FACEBOOK_MINI_KITTY_COMMUNE_daisy_cat_penis_face_1120.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "fat_cat.jpg",
+          "path": "img/cat\\fat_cat.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "file_20181214_185258_1czwsab.jpg",
+          "path": "img/cat\\file_20181214_185258_1czwsab.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "FTOMGVVJU4I6TBZTJDEHENPTSY.jpg",
+          "path": "img/cat\\FTOMGVVJU4I6TBZTJDEHENPTSY.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "garlicsowner.jpg",
+          "path": "img/cat\\garlicsowner.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "garlic_the_chinese_clone_cat.jpg",
+          "path": "img/cat\\garlic_the_chinese_clone_cat.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "gdahh5_wr.jpg",
+          "path": "img/cat\\gdahh5_wr.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Homepage_Cat_MOBILE.png",
+          "path": "img/cat\\Homepage_Cat_MOBILE.png",
+          "type": "cat"
+        },
+        {
+          "datei": "house_cat_with_high_visibility_collar.JPG",
+          "path": "img/cat\\house_cat_with_high_visibility_collar.JPG",
+          "type": "cat"
+        },
+        {
+          "datei": "iStock_000044061370_Medium_fa5f8aa.jpg",
+          "path": "img/cat\\iStock_000044061370_Medium_fa5f8aa.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "kitten_440379.jpg",
+          "path": "img/cat\\kitten_440379.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "LF05_AUG_Choupette.jpg",
+          "path": "img/cat\\LF05_AUG_Choupette.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "maxresdefault (1).jpg",
+          "path": "img/cat\\maxresdefault (1).jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "maxresdefault.jpg",
+          "path": "img/cat\\maxresdefault.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "MV5BNzRlM2IxMmMtYjgwMy00YWE0LTkwMDItNWI4MWY4OGNjN2VmXkEyXkFqcGdeQXVyNjg2NjQwMDQ_._V1_SY1000_SX1500_AL_.0.jpg",
+          "path": "img/cat\\MV5BNzRlM2IxMmMtYjgwMy00YWE0LTkwMDItNWI4MWY4OGNjN2VmXkEyXkFqcGdeQXVyNjg2NjQwMDQ_._V1_SY1000_SX1500_AL_.0.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "NINTCHDBPICT000512966590.jpg",
+          "path": "img/cat\\NINTCHDBPICT000512966590.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "orange_tabby_1800x1800.png",
+          "path": "img/cat\\orange_tabby_1800x1800.png",
+          "type": "cat"
+        },
+        {
+          "datei": "p0517py6.jpg",
+          "path": "img/cat\\p0517py6.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "p1769397_3391580689_5.jpg",
+          "path": "img/cat\\p1769397_3391580689_5.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "pet_sematary_cat_2a.jpg",
+          "path": "img/cat\\pet_sematary_cat_2a.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "pexels_photo_416160.jpeg",
+          "path": "img/cat\\pexels_photo_416160.jpeg",
+          "type": "cat"
+        },
+        {
+          "datei": "photo_1475518112798_86ae358241eb.jpg",
+          "path": "img/cat\\photo_1475518112798_86ae358241eb.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "PRI_833362031_e1567851753142.jpg",
+          "path": "img/cat\\PRI_833362031_e1567851753142.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "PRI_86385432.jpg",
+          "path": "img/cat\\PRI_86385432.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "provecta_for_pets_gray_cat_opt.jpg",
+          "path": "img/cat\\provecta_for_pets_gray_cat_opt.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "RYWWRE_920x584.jpg",
+          "path": "img/cat\\RYWWRE_920x584.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Sapphire_2_2048x2048.jpg",
+          "path": "img/cat\\Sapphire_2_2048x2048.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Scottish_fold.png",
+          "path": "img/cat\\Scottish_fold.png",
+          "type": "cat"
+        },
+        {
+          "datei": "secure_attachment_medium.jpg",
+          "path": "img/cat\\secure_attachment_medium.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "SEC_57007787.jpg",
+          "path": "img/cat\\SEC_57007787.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Singapura_Cats.jpg",
+          "path": "img/cat\\Singapura_Cats.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "tesla_cat.jpg",
+          "path": "img/cat\\tesla_cat.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "This_Is_Why_Cats_Are_Afraid_of_Cucumbers_760x506.jpg",
+          "path": "img/cat\\This_Is_Why_Cats_Are_Afraid_of_Cucumbers_760x506.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Tigerlily.jpg",
+          "path": "img/cat\\Tigerlily.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "toriflynn2.jpg",
+          "path": "img/cat\\toriflynn2.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "Transparent_OrangeWhiteCat.png",
+          "path": "img/cat\\Transparent_OrangeWhiteCat.png",
+          "type": "cat"
+        },
+        {
+          "datei": "viking_cat_16x9.jpg",
+          "path": "img/cat\\viking_cat_16x9.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "what_does_it_mean_when_cat_wags_tail.jpg",
+          "path": "img/cat\\what_does_it_mean_when_cat_wags_tail.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "why_cats_are_best_pets_1559241235.jpg",
+          "path": "img/cat\\why_cats_are_best_pets_1559241235.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "_102173268_fa6ec355_ea3a_4f04_9cd0_f48eeead5707.jpg",
+          "path": "img/cat\\_102173268_fa6ec355_ea3a_4f04_9cd0_f48eeead5707.jpg",
+          "type": "cat"
+        },
+        {
+          "datei": "_106018344_garf_face.jpg",
+          "path": "img/cat\\_106018344_garf_face.jpg",
+          "type": "cat"
+        }
+      ],
+      "datei": "cat",
+      "path": "img/cat",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "datei": "00_lead_brandy.jpg",
+          "path": "img/dog\\00_lead_brandy.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "0cedfb79_5a15_4e70_aa07_de22f1048a56_large16x9_TD29emaciateddogsHumaneSociety.jpg",
+          "path": "img/dog\\0cedfb79_5a15_4e70_aa07_de22f1048a56_large16x9_TD29emaciateddogsHumaneSociety.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "105992231_1561667465295gettyimages_521697453.jpeg",
+          "path": "img/dog\\105992231_1561667465295gettyimages_521697453.jpeg",
+          "type": "dog"
+        },
+        {
+          "datei": "1303742_579699_34.jpg",
+          "path": "img/dog\\1303742_579699_34.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "1303743_579700_14.jpg",
+          "path": "img/dog\\1303743_579700_14.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "1536811851949.jpg",
+          "path": "img/dog\\1536811851949.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "1567144056207.jpg",
+          "path": "img/dog\\1567144056207.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "18_puppy_dog_eyes.w700.h700.jpg",
+          "path": "img/dog\\18_puppy_dog_eyes.w700.h700.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "190513_r34294.jpg",
+          "path": "img/dog\\190513_r34294.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "21257696_4cf6_43ba_94de_365f45ff1aad_shutterstock_715885999.jpg",
+          "path": "img/dog\\21257696_4cf6_43ba_94de_365f45ff1aad_shutterstock_715885999.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "2945972_right_1.jpg",
+          "path": "img/dog\\2945972_right_1.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "2_dog.jpg",
+          "path": "img/dog\\2_dog.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "3408.jpg",
+          "path": "img/dog\\3408.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "3_The_dog_looks_at_the_camera.jpg",
+          "path": "img/dog\\3_The_dog_looks_at_the_camera.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "41PcYi9TpRL.jpg",
+          "path": "img/dog\\41PcYi9TpRL.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "434934.jpg",
+          "path": "img/dog\\434934.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "49202627_303.jpg",
+          "path": "img/dog\\49202627_303.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "50_a_feature_dogs_and_puppies_mobile.jpg",
+          "path": "img/dog\\50_a_feature_dogs_and_puppies_mobile.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "563410_istock_500427548.jpg",
+          "path": "img/dog\\563410_istock_500427548.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "5a15f8ea0a2ac7.34522427.png",
+          "path": "img/dog\\5a15f8ea0a2ac7.34522427.png",
+          "type": "dog"
+        },
+        {
+          "datei": "7W5PK4OZWFHXFG4M3PRIL6LFYE.jpg",
+          "path": "img/dog\\7W5PK4OZWFHXFG4M3PRIL6LFYE.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "8836ea39_3741_4c95_b7dc_003ff8885583_ls4618_42_gi_172600883_501x374.jpg",
+          "path": "img/dog\\8836ea39_3741_4c95_b7dc_003ff8885583_ls4618_42_gi_172600883_501x374.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "911428568.jpg.0.jpg",
+          "path": "img/dog\\911428568.jpg.0.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Acute_Dog_Diarrhea_47066074.jpg",
+          "path": "img/dog\\Acute_Dog_Diarrhea_47066074.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "adorable_cavalier_king_charles_spaniel_puppy_royalty_free_image_523255012_1565106446.jpg",
+          "path": "img/dog\\adorable_cavalier_king_charles_spaniel_puppy_royalty_free_image_523255012_1565106446.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "aklcgovtnz_data_users5_martina3_desktop_dog_2.jpg",
+          "path": "img/dog\\aklcgovtnz_data_users5_martina3_desktop_dog_2.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "american_eskimo_dog_1550631739.jpg",
+          "path": "img/dog\\american_eskimo_dog_1550631739.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "bad_dog_banner_560x250.jpg",
+          "path": "img/dog\\bad_dog_banner_560x250.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "bd18bl_bernese_mountain_dog_adult_standing.jpg",
+          "path": "img/dog\\bd18bl_bernese_mountain_dog_adult_standing.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "blackLab.jpg",
+          "path": "img/dog\\blackLab.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "boo.jpg",
+          "path": "img/dog\\boo.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "c4687d4e2864.jpeg",
+          "path": "img/dog\\c4687d4e2864.jpeg",
+          "type": "dog"
+        },
+        {
+          "datei": "ca61f102_33b2_488a_9151_35fe0e95d407.jpeg",
+          "path": "img/dog\\ca61f102_33b2_488a_9151_35fe0e95d407.jpeg",
+          "type": "dog"
+        },
+        {
+          "datei": "Chinook_On_White_03.jpg",
+          "path": "img/dog\\Chinook_On_White_03.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "city_dog_shiba_s.jpg",
+          "path": "img/dog\\city_dog_shiba_s.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "cloned_dogs_mdorottya_123rf.png",
+          "path": "img/dog\\cloned_dogs_mdorottya_123rf.png",
+          "type": "dog"
+        },
+        {
+          "datei": "conservation_dog_hero.jpg",
+          "path": "img/dog\\conservation_dog_hero.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "corgi_and_terrier_running.jpg",
+          "path": "img/dog\\corgi_and_terrier_running.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "corgi_inu_mixed_dog_breed_pictures_1.jpg",
+          "path": "img/dog\\corgi_inu_mixed_dog_breed_pictures_1.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "cut.jpg",
+          "path": "img/dog\\cut.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "dog.jpg",
+          "path": "img/dog\\dog.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Dog_Body_Language.jpg",
+          "path": "img/dog\\Dog_Body_Language.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "dog_canine_autism_vaccines.jpg",
+          "path": "img/dog\\dog_canine_autism_vaccines.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "dog_costumes_square_1565286137.png",
+          "path": "img/dog\\dog_costumes_square_1565286137.png",
+          "type": "dog"
+        },
+        {
+          "datei": "Dog_Grooming_Business_Pathway_Singapore1.jpeg",
+          "path": "img/dog\\Dog_Grooming_Business_Pathway_Singapore1.jpeg",
+          "type": "dog"
+        },
+        {
+          "datei": "dog_landing_hero_lg.jpg",
+          "path": "img/dog\\dog_landing_hero_lg.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "dog_training.jpg",
+          "path": "img/dog\\dog_training.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Dog_Web_Icon.jpg",
+          "path": "img/dog\\Dog_Web_Icon.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "domestic_dog_thumb.jpg",
+          "path": "img/dog\\domestic_dog_thumb.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "don_pit_bull_shelter_dog_animal_care_center_brooklyn_heat_exhaustion.jpg",
+          "path": "img/dog\\don_pit_bull_shelter_dog_animal_care_center_brooklyn_heat_exhaustion.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "f02794607dc5aaea1dd8701e7cd6d5e1333ddcf059147c5dcedfb614a7a7a846.jpg",
+          "path": "img/dog\\f02794607dc5aaea1dd8701e7cd6d5e1333ddcf059147c5dcedfb614a7a7a846.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "front2.jpg",
+          "path": "img/dog\\front2.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "gettyimages_1094874726.png",
+          "path": "img/dog\\gettyimages_1094874726.png",
+          "type": "dog"
+        },
+        {
+          "datei": "GETTY_dog_pet_1120.jpg",
+          "path": "img/dog\\GETTY_dog_pet_1120.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "girl_puts_dog_in_tumble_dryer_instagram_live_stream.jpg",
+          "path": "img/dog\\girl_puts_dog_in_tumble_dryer_instagram_live_stream.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "gj3m9r.jpg",
+          "path": "img/dog\\gj3m9r.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "golden_retriever_puppy.jpg",
+          "path": "img/dog\\golden_retriever_puppy.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "hawaii_buried_dog_02_ht_jc_190715_hpMain_4x3_992.jpg",
+          "path": "img/dog\\hawaii_buried_dog_02_ht_jc_190715_hpMain_4x3_992.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "HB4AT3D3IMI6TMPTWIZ74WAR54.jpg",
+          "path": "img/dog\\HB4AT3D3IMI6TMPTWIZ74WAR54.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "hcrop1920x1098_stretch.jpg",
+          "path": "img/dog\\hcrop1920x1098_stretch.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "HighDogs1.jpg",
+          "path": "img/dog\\HighDogs1.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "husky_2.jpg",
+          "path": "img/dog\\husky_2.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "istock_1031307988.jpg",
+          "path": "img/dog\\istock_1031307988.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "iStock_97685908_min.jpg",
+          "path": "img/dog\\iStock_97685908_min.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "lead_720_405 (1).jpg",
+          "path": "img/dog\\lead_720_405 (1).jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "lead_720_405.jpg",
+          "path": "img/dog\\lead_720_405.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "lil_tuck_the_aussie_WEBSITE.jpg",
+          "path": "img/dog\\lil_tuck_the_aussie_WEBSITE.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "maxresdefault (1).jpg",
+          "path": "img/dog\\maxresdefault (1).jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "maxresdefault.jpg",
+          "path": "img/dog\\maxresdefault.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Mobile.jpg",
+          "path": "img/dog\\Mobile.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "muppet_1200x800.jpg",
+          "path": "img/dog\\muppet_1200x800.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "national_dog_day_1.jpg",
+          "path": "img/dog\\national_dog_day_1.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "NHS_Slider_03_1024x731.jpg",
+          "path": "img/dog\\NHS_Slider_03_1024x731.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "paws_for_a_moment.png",
+          "path": "img/dog\\paws_for_a_moment.png",
+          "type": "dog"
+        },
+        {
+          "datei": "pearl_16x9.jpg",
+          "path": "img/dog\\pearl_16x9.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Penny_its_ok.jpg",
+          "path": "img/dog\\Penny_its_ok.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "pixel_dogsofinstagram_3_15_19.jpg",
+          "path": "img/dog\\pixel_dogsofinstagram_3_15_19.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "PRI_75390981_e1563030966346.jpg",
+          "path": "img/dog\\PRI_75390981_e1563030966346.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "puppy_dog.jpg",
+          "path": "img/dog\\puppy_dog.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "puppy_picture.jpg.crdownload",
+          "path": "img/dog\\puppy_picture.jpg.crdownload",
+          "type": "dog"
+        },
+        {
+          "datei": "register_your_dog.tmb_lg.jpg",
+          "path": "img/dog\\register_your_dog.tmb_lg.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "RSPCA_dog_boarding_1024x1024.jpg",
+          "path": "img/dog\\RSPCA_dog_boarding_1024x1024.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "rsz_1who_picks_up_guide_dog_poop.jpg",
+          "path": "img/dog\\rsz_1who_picks_up_guide_dog_poop.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Science_husky_1093906290.jpg",
+          "path": "img/dog\\Science_husky_1093906290.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "senior_golden_retriever_with_ball_picture_id488657289.jpg",
+          "path": "img/dog\\senior_golden_retriever_with_ball_picture_id488657289.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Taka_burn_dog_helps_burn_victims_800x507.jpg",
+          "path": "img/dog\\Taka_burn_dog_helps_burn_victims_800x507.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "TampaPacing.jpg",
+          "path": "img/dog\\TampaPacing.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "TEFYF3KSXZDQNBFPVSUD7UXMMI.jpg",
+          "path": "img/dog\\TEFYF3KSXZDQNBFPVSUD7UXMMI.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "top_5_leading_causes_of_dog_death_web_1024x1024.jpg",
+          "path": "img/dog\\top_5_leading_causes_of_dog_death_web_1024x1024.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "top_dog_beaches.jpg",
+          "path": "img/dog\\top_dog_beaches.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "Tori.jpg",
+          "path": "img/dog\\Tori.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "tractive_gps_3g_dogtracker_dalmatian_dog.jpg",
+          "path": "img/dog\\tractive_gps_3g_dogtracker_dalmatian_dog.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "vicious_dog_0.png",
+          "path": "img/dog\\vicious_dog_0.png",
+          "type": "dog"
+        },
+        {
+          "datei": "website_donate_mobile.jpg",
+          "path": "img/dog\\website_donate_mobile.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "YellowLabradorLooking.jpg",
+          "path": "img/dog\\YellowLabradorLooking.jpg",
+          "type": "dog"
+        },
+        {
+          "datei": "_105247783_e5718d3b_172c_40d4_b6d6_6e4040221049.jpg",
+          "path": "img/dog\\_105247783_e5718d3b_172c_40d4_b6d6_6e4040221049.jpg",
+          "type": "dog"
+        }
+      ],
+      "datei": "dog",
+      "path": "img/dog",
+      "type": "folder"
+    }
+  ],
+  "datei": "",
+  "path": "img/",
+  "type": "folder"
 }
